@@ -36,15 +36,16 @@ Você precisará instalar em seu computador:
 Depois siga os passos:
 <br><br>
 
-1. Clone este repositório `https://github.com/viniciusrschiffler/plant-manager.git`.
-<br>
+1. Clone este repositório `https://github.com/viniciusrschiffler/Plant-Manager.git`.
+
 2. Na raíz do projeto, execute o comando `yarn install` ou `npm install` para instalar as dependêcias.
-<br>
+
 3. No package.json altere "IP_DA_SUA_MÁQUINA" no script "startApi". 
 Você também deve alterar o IP que está no arquivo services/api.ts para que o 'Backend' funcione corretamente. NÃO É RECOMENDADO O USO DE localhost NO LUGAR DO IP.
-<br>
+
+
 4. Após a instalação, execute o comando `expo start` ou `yarn start`.
-<br>
+
 5. No site que abrirá, clique em abrir no emulador ou então leia o code QR para com o aplicativo do expo em seu celular.
 
 
