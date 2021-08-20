@@ -79,9 +79,9 @@ Além de avisar sobre quando uma planta deve ser regada, o app ainda fornece alg
 <br>
 
 <h1 align="center"><img src=ImgToREADME/img1.png width=300></h1>
-<h1 align="center"><img src=ImgToREADME/img2.png width=300>  <img src=imgToREADME/img3.png width=300></h1>
-<h1 align="center"><img src=ImgToREADME/img4.png width=300>  <img src=imgToREADME/img5.png width=300></h1>
-<h1 align="center"><img src=ImgToREADME/img6.png width=300>  <img src=imgToREADME/img7.png width=300></h1>
+<h1 align="center"><img src=ImgToREADME/img2.png width=300>  <img src=ImgToREADME/img3.png width=300></h1>
+<h1 align="center"><img src=ImgToREADME/img4.png width=300>  <img src=ImgToREADME/img5.png width=300></h1>
+<h1 align="center"><img src=ImgToREADME/img6.png width=300>  <img src=ImgToREADME/img7.png width=300></h1>
 <h1 align="center"><img src=ImgToREADME/img8.png width=300></h1>
 
 
