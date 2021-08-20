@@ -1,6 +1,6 @@
 <h1 align="center"> Plant Manager </h1>
 
-<h1 align="center"><img src=./imgToREADME/img1.png width=300></h1>
+<h1 align="center"><img src=./imgToREADME/Img1.png width=300></h1>
 
 # Indice
 
